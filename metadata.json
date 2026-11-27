@@ -1,0 +1,6 @@
+{
+  "name": "CampusGate — School Attendance & RFID Log Platform",
+  "description": "School attendance viewing and admin console for student RFID and manual Time In / Time Out records, student history, and attendance verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
